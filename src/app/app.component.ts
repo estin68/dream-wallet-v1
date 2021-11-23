@@ -6,5 +6,5 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  name = 'From Chin: Angular ' + VERSION.major;
+  name = 'Dream Wallet v1: Angular ' + VERSION.major;
 }
